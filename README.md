@@ -2,7 +2,7 @@
 
 ```shell
 $ git clone git@github.com:mrtc0/git-bare-checkout-hook.git
-$ cd evil
+$ cd git-bare-checkout-hook/evil
 $ git checkout master
 D       README.md
 Already on 'master'
